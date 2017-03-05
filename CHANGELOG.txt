@@ -1,0 +1,19 @@
+v1.0
+----
+
+Basic File Transfer System Software includes:
+
+a.	Main screen
+		- Sticks on top of your windows desktop
+		- Animation on drag/drop & screen expansion
+		- Experience bar to imitate level up process for file transfer achievement
+
+b.	External File Transfer Configuration
+		- Define filename/file type for filtering
+		- Define external file location for copy process
+
+c.	Award Feature
+		- Avatar setting (Functional)
+		- Avatar shop (Not fully develop)
+
+After external file configuration has been set up, user only need to drag & drop file to the main UI screen to initiate file transfer process.
