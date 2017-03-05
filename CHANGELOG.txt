@@ -16,4 +16,5 @@ c.	Award Feature
 		- Avatar setting (Functional)
 		- Avatar shop (Not fully develop)
 
-After external file configuration has been set up, user only need to drag & drop file to the main UI screen to initiate file transfer process.
+After external file configuration has been set up, 
+user only need to drag & drop file to the main UI screen to initiate file transfer process.
