@@ -1,5 +1,5 @@
 # StorageTool
-VB.NET - File Transfer Utility with Awarding Feature
+VB.NET - File Transfer Utility with Reward Features
 (Windows Form)
 
 Storage Tool ( Windows Form Application )
